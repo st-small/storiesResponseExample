@@ -1,0 +1,69 @@
+{
+    "response": {
+        "items": [ {
+            "id": "95779d7f-1eca-42cf-a595-343079a76be4",
+            "title": "Тыквенный капкейк",
+            "previewImg": "https://i2.wp.com/masdapit.com/wp-content/uploads/2019/02/man-make-coffee-photography-ideas_38.jpg?zoom=2&fit=575%2C862",
+            "subitems": [{
+                "title": "Тыквенный капкейк 1",
+                "descriptionText": "Нежный и тыквенный. Именно таким стал наш новый капкейк, чтобы порадовать вас этой осенью. Его воздушный бисквит с начинкой из натуральных сливок приятно удивляет ярким сочетанием корицы, имбиря и тыквы. А еще он ждёт в гости сегодня. Зайдете?",
+                "image": "https://i2.wp.com/masdapit.com/wp-content/uploads/2019/02/man-make-coffee-photography-ideas_38.jpg?zoom=2&fit=575%2C862"
+            },
+                {
+                    "title": "Тыквенный капкейк 2",
+                    "descriptionText": "Нежный и тыквенный. Именно таким стал наш новый капкейк, чтобы порадовать вас этой осенью. Его воздушный бисквит с начинкой из натуральных сливок приятно удивляет ярким сочетанием корицы, имбиря и тыквы. А еще он ждёт в гости сегодня. Зайдете?",
+                    "image": "https://i2.wp.com/masdapit.com/wp-content/uploads/2019/02/man-make-coffee-photography-ideas_38.jpg?zoom=2&fit=575%2C862"
+                }
+            ]
+        },
+        {
+            "id": "a0305be4-3e1e-4491-80f8-3d46c3bdafa4",
+            "title": "День булочек с корицей",
+            "previewImg": "https://i.pinimg.com/originals/08/49/88/084988fc268fb7a471d74555834d25f6.jpg",
+            "subitems": [{
+                "title": "",
+                "descriptionText": "",
+                "image": ""
+            }]
+            },
+        {
+            "id": "2fdbd99f-4d14-49fe-a208-895835cd8b00",
+            "title": "День учителя",
+            "previewImg": "https://i.pinimg.com/564x/41/57/70/4157706fda851444a29a3dae8c2fec13.jpg",
+            "subitems": [{
+                "title": "",
+                "descriptionText": "",
+                "image": ""
+            }]
+            },
+        {
+            "id": "869ad534-5dec-40a8-87b8-5e3cc6066df4",
+            "title": "Item4 title",
+            "previewImg": "https://i.pinimg.com/564x/98/13/93/981393a16d6c66bf410eb1df92964581.jpg",
+            "subitems": [{
+                "title": "",
+                "descriptionText": "",
+                "image": ""
+            }]
+            },
+        {
+            "id": "7f540d3f-d869-4582-8482-361aa145a097",
+            "title": "Item5 title",
+            "previewImg": "https://i.pinimg.com/564x/32/98/70/32987091ad6da6a642b8307c925955de.jpg",
+            "subitems": [{
+                "title": "",
+                "descriptionText": "",
+                "image": ""
+            }]
+            },
+        {
+            "id": "cf5fa703-d3b7-4dc4-bd8a-32554ee74c45",
+            "title": "Item6 title",
+            "previewImg": "https://i.pinimg.com/564x/59/90/ee/5990eef4e0de0ca2a3257070ac3d7553.jpg",
+            "subitems": [{
+                "title": "",
+                "descriptionText": "",
+                "image": ""
+            }]
+            }
+    ]}}
